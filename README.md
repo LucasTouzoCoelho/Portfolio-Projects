@@ -8,6 +8,7 @@
 <sub>**Data Analyst at UPS**</sub>
 
 Hi there! Thanks for visit my profile!
+
 I introduce myself as an engineer with more than 10 years of experience in Data Analysis and Industrial Processes. 
 
 During my journey, I've worked with many statistics analysis, continuous improvement and making dashboards to the managers, developing a critical thinking and problem-solving skills. I always believed in a improvement culture and in my learning carreer I realized that the decisions made from a data analysis becames it much more accurate!
