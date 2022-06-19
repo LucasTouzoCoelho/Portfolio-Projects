@@ -7,11 +7,16 @@
 # Lucas Coelho
 <sub>**Data Analyst at UPS**</sub>
 
+Hi there! Thanks for visit my profile! I introduce myself as an engineer with more than 10 years of experience in Data Analysis and Industrial Processes. 
 
+During my journey, I've worked with many statistics analysis, continuous improvement and making dashboards to the managers, developing a critical thinking and problem-solving skills. I always believed in a improvement culture and in my learning carreer I realized that the decisions made from a data analysis becames it much more accurate!
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+So, I've discovered the Data Science's World and it's infinities tools. My graduation as IT Tecnician helped me a lot in the beginning, but I'm sure that the apprenticeship is continuous and there are a lot of information to learn. I'm consider myself like a born lifelong learner!
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+I'm looking for contribute to the Data Driven Culture because I believe in a blend with some important concepts of the Lean Manufacturing metholodogy can be so powerfull to change a business level.
+
+I try to be very assertive and inspiring in my comunication, because I really believe the people make the diference in all of this changing process, and this have a direct impact, not just in the business enviroment, but also in the final client experience. Nowadays I'm studying some of the main tools in the market, basides that some key-topics like Agile Methodologies, Machine Learning Alghorithms, Deep Learning and PLN. 
+
 * **Background in:** Python, R, Excel, Power BI and Machine Learning. 
 * **Currently studying about:** Neural Networks, Machine Learning and Robotic Process Automation
 
