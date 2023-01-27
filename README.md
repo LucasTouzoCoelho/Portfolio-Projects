@@ -5,7 +5,7 @@
 </p>
 
 # Lucas Coelho
-<sub>**Data Analyst at UPS**</sub>
+<sub>**Data Specialist at AB Inbev**</sub>
 
 Hi there! Thanks for visit my profile!
 
