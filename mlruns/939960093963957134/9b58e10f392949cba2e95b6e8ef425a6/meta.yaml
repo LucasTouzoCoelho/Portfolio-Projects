@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/99837835/OneDrive%20-%20Anheuser-Busch%20InBev/My%20Documents/Particular/Projetos%20Portfolio/mlruns/939960093963957134/9b58e10f392949cba2e95b6e8ef425a6/artifacts
+end_time: 1731895240418
+entry_point_name: ''
+experiment_id: '939960093963957134'
+lifecycle_stage: active
+run_id: 9b58e10f392949cba2e95b6e8ef425a6
+run_name: masked-mouse-619
+run_uuid: 9b58e10f392949cba2e95b6e8ef425a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731895240276
+status: 3
+tags: []
+user_id: '99837835'
