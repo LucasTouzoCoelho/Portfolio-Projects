@@ -28,5 +28,5 @@ So, I've discovered the Data Science's World and it's infinities tools. My gradu
 * [Exploratory Analysis with data from Brazilian's COVID-19 Vaccination Program](https://github.com/LucasTouzoCoelho/EDA-Covid-19)
 * [Deploying a Machine Learning model to predict Churn in a Telecommunications company - Project code](https://github.com/LucasTouzoCoelho/churn-model-deploy)
 * [Deploying a Machine Learning model to predict Churn in a Telecommunications company - Project app](https://churn-model-deploy-fyzrdgqh9kgybkkquies3h.streamlit.app/)
-* 
+  
 ---
