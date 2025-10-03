@@ -19,11 +19,13 @@ With the analytics team, I conducted deep dive analysis that answered many busin
 
 I am currently furthering my expertise in advanced Artificial Intelligence concepts and techniques through a specialization at UNICAMP, and actively applying these skills in personal projects. I have hands-on experience with Python, SQL, Pandas, NumPy and Scikit-learn.
 
-* Email: lucastouzo@outlook.com
-* Whatsapp: (19) 99616-1663
-
 * **Background in:** Python, SQL, Machine Learning. 
 * **Currently studying about:** Neural Networks, Machine Learning and Robotic Process Automation
+  
+Email: lucastouzo@outlook.com
+Whatsapp: (19) 99616-1663
+
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-tcoelho/)
