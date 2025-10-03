@@ -5,17 +5,24 @@
 </p>
 
 # Lucas Coelho
-<sub>**Data Specialist at AB Inbev**</sub>
+<sub>**Data Scientist**</sub>
 
-Hi there! Thanks for visit my profile!
+Hi there! Thanks for visiting my profile! 👋
 
-I introduce myself as an engineer with more than 10 years of experience in Data Analysis and Industrial Processes. 
+I’m a Data professional with 4 years in data teams and a background of 10 years applying data-driven insights in industrial processes, saving a lot of money througout this jorney. I’m a lifelong learner who believes that data-driven culture blended with Lean Manufacturing is a powerful combination to leverage business outcomes.
 
-During my journey, I've worked with many statistics analysis, continuous improvement and making dashboards to the managers, developing a critical thinking and problem-solving skills. I always believed in a improvement culture and in my learning carreer I realized that the decisions made from a data analysis becames it much more accurate!
+In the food industry, I used Statistics and Data Science techniques to reduce weight variation across 8 noodle lanes by 52% via ANOVA and cut contamination in the nesting line by 27% through root-cause analysis and collaboration with the maintenance team.
 
-So, I've discovered the Data Science's World and it's infinities tools. My graduation as IT Technician helped me a lot in the beginning, but I'm sure that the apprenticeship is continuous and there are a lot of information to learn. I'm consider myself like a born lifelong learner!
+I contributed to a global corporate to build the official company source of truth, used to increase the performance of Machine Learning models and make data and KPIs more accessible to stakeholders.
 
-* **Background in:** Python, R, Excel, Power BI and Machine Learning. 
+With the analytics team, I conducted deep dive analysis that answered many business questions, applying Statistics, Data mining techniques, data visualization and Data Science methods to building smart solutions, ensuring the visibility to the commercial teams and show the right direction to the business thrive.
+
+I am currently furthering my expertise in advanced Artificial Intelligence concepts and techniques through a specialization at UNICAMP, and actively applying these skills in personal projects. I have hands-on experience with Python, SQL, Pandas, NumPy and Scikit-learn.
+
+Email: lucastouzo@outlook.com
+Whatsapp: (19) 99616-1663
+
+* **Background in:** Python, SQL, Machine Learning. 
 * **Currently studying about:** Neural Networks, Machine Learning and Robotic Process Automation
 
 **Links:**
